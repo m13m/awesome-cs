@@ -1,2 +1,10 @@
 # Papers
-List of Research papers related to Programming languages, Distributed systems and friends 
+> List of Research papers related to Programming languages, Distributed systems and friends 
+
+## Programming Language theory 
+
+### Functional Programming
+
+
+## Distributed Systems
+
