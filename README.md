@@ -1,10 +1,17 @@
 # Papers
-> List of Research papers related to Programming languages, Distributed systems and friends 
 
-## Programming Language theory 
+## Programming language theory 
 
-### Functional Programming
+### Theory
+
+### Functional programming
+- [ ] [Why Functional Programming Matters by John Hughes](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 
 
-## Distributed Systems
+## Distributed systems
+### Theory
+
+
+
+### Miscellaneous 
 
