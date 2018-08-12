@@ -21,3 +21,5 @@
 * [Readings in distributed systems by christopher meiklejohn](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 
 * [Distributed systems theory for the distributed systems engineer by Henry Robinson](http://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
+
+* [Designing Data-Intensive Applications References](https://github.com/ept/ddia-references)
