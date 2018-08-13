@@ -10,9 +10,12 @@
 -----------------------------------------------------------------------------------------------------------------------------
 ## Distributed systems
 
-### Theory
-
 - [ ] [Brewer’s conjecture and the feasibility of consistent, available, partition-tolerant web services by Nancy Lynch & Seth Gilbert](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
+
+-----------------------------------------------------------------------------------------------------------------------------
+## Software Architecture
+- [ ] [The Software Architecture Chronicles by Herberto](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
+
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## Miscellaneous 
