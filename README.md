@@ -6,7 +6,6 @@
 ### Functional programming
 
 - [ ] [Why Functional Programming Matters by John Hughes](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
-
 -----------------------------------------------------------------------------------------------------------------------------
 ## Distributed systems
 
@@ -26,3 +25,4 @@
 * [Distributed systems theory for the distributed systems engineer by Henry Robinson](http://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
 
 * [Designing Data-Intensive Applications References](https://github.com/ept/ddia-references)
+* [Great Works in Programming Languages](http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
