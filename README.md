@@ -8,7 +8,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 ## Distributed systems
 
-- [ ] [Brewer’s conjecture and the feasibility of consistent, available, partition-tolerant web services [[paper]](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
+- [ ] Brewer’s conjecture and the feasibility of consistent, available, partition-tolerant web services [[paper]](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## Software architecture
