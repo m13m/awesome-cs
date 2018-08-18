@@ -3,17 +3,16 @@
 
 ## Programming languages 
 
-### Functional programming
-
-- [ ] [Why Functional Programming Matters by John Hughes](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
+- [ ] Why Functional Programming Matters [[paper]](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
+- [ ] Programming Paradigms for Dummies: What Every Programmer Should Know [[paper]](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 -----------------------------------------------------------------------------------------------------------------------------
 ## Distributed systems
 
-- [ ] [Brewer’s conjecture and the feasibility of consistent, available, partition-tolerant web services by Nancy Lynch & Seth Gilbert](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
+- [ ] [Brewer’s conjecture and the feasibility of consistent, available, partition-tolerant web services [[paper]](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## Software architecture
-- [ ] [The Software Architecture Chronicles by Herberto](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
+- [ ] The Software Architecture Chronicles by Herberto [[blog posts]](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
