@@ -3,17 +3,17 @@
 
 ## Programming languages 
 
-- [ ] Why Functional Programming Matters [[📄]](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
-- [ ] A History of Haskell: being lazy with class [[📄 & 📹]](https://www.microsoft.com/en-us/research/publication/a-history-of-haskell-being-lazy-with-class/)
-- [ ] Programming Paradigms for Dummies: What Every Programmer Should Know [[📄]](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+* Why Functional Programming Matters [[📄]](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
+* A History of Haskell: being lazy with class [[📄 & 📹]](https://www.microsoft.com/en-us/research/publication/a-history-of-haskell-being-lazy-with-class/)
+* Programming Paradigms for Dummies: What Every Programmer Should Know [[📄]](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 -----------------------------------------------------------------------------------------------------------------------------
 ## Distributed systems
 
-- [ ] Brewer’s conjecture and the feasibility of consistent, available, partition-tolerant web services [[📄]](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
+* Brewer’s conjecture and the feasibility of consistent, available, partition-tolerant web services [[📄]](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## Software architecture
-- [ ] The Software Architecture Chronicles by Herberto [[🔗]](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
+* The Software Architecture Chronicles by Herberto [[🔗]](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
