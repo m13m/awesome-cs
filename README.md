@@ -4,8 +4,8 @@
 ## Programming languages 
 
 * Why Functional Programming Matters [[📄]](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
-* A History of Haskell: being lazy with class [[📄 & 📹]](https://www.microsoft.com/en-us/research/publication/a-history-of-haskell-being-lazy-with-class/)
 * Programming Paradigms for Dummies[[📄]](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+* A History of Haskell: being lazy with class [[📄 & 📹]](https://www.microsoft.com/en-us/research/publication/a-history-of-haskell-being-lazy-with-class/)
 -----------------------------------------------------------------------------------------------------------------------------
 ## Distributed systems
 
