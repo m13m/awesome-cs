@@ -1,22 +1,19 @@
 # 📚 Papers 
-
+> A list of papers related to Distributed systems, Programming language theory, Software architecture and friends
 
 ## Programming languages 
 
 * Why Functional Programming Matters [[📄]](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 * Programming Paradigms for Dummies[[📄]](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 * A History of Haskell: being lazy with class [[📄 & 📹]](https://www.microsoft.com/en-us/research/publication/a-history-of-haskell-being-lazy-with-class/)
------------------------------------------------------------------------------------------------------------------------------
+
 ## Distributed systems
 
 * Brewer’s conjecture and the feasibility of consistent, available, partition-tolerant web services [[📄]](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
 
------------------------------------------------------------------------------------------------------------------------------
 ## Software architecture
 * The Software Architecture Chronicles by Herberto [[🔗]](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
 
-
------------------------------------------------------------------------------------------------------------------------------
 ## Miscellaneous 
 * [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 
