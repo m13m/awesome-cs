@@ -7,6 +7,7 @@
 * Programming Paradigms for Dummies[[📄]](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 * A History of Haskell: being lazy with class [[📄 & 📹]](https://www.microsoft.com/en-us/research/publication/a-history-of-haskell-being-lazy-with-class/)
 * The Next 700 Programming Languages [[📄]](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)
+* Composable memory transactions [[📄]](https://www.microsoft.com/en-us/research/publication/composable-memory-transactions/)
 
 ## Distributed systems
 
