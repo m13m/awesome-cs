@@ -26,3 +26,4 @@
 ## Books
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu/current/index.html)
 * [Programming Language Foundations in Agda](https://plfa.github.io/)
+* [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
