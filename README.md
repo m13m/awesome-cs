@@ -25,3 +25,4 @@
 
 ## Books
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu/current/index.html)
+* [Programming Language Foundations in Agda](https://plfa.github.io/)
