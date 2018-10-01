@@ -24,6 +24,8 @@
 * [Great Works in Programming Languages](http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
 * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 * [A List of Foundational Haskell Papers](https://github.com/cohomolo-gy/haskell-resources)
+*[Tutorial Papers in Functional Programming](http://www.cse.chalmers.se/~rjmh/tutorials.html) 
+
 
 ## Books
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu/current/index.html)
