@@ -22,8 +22,16 @@
 * [Distributed systems theory for the distributed systems engineer by Henry Robinson](http://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
 * [Designing Data-Intensive Applications References](https://github.com/ept/ddia-references)
 * [Great Works in Programming Languages](http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
+* [Linux Performance](http://www.brendangregg.com/linuxperf.html)
+* [A List of Foundational Haskell Papers](https://github.com/cohomolo-gy/haskell-resources)
+* [Tutorial Papers in Functional Programming](http://www.cse.chalmers.se/~rjmh/tutorials.html)
+* [Awesome distributed systems by GOJEK](https://github.com/gojektech/awesome-distributed-systems)
+* [MSR India 2012 Summer School on Distributed Algorithms, Systems, and Programming](https://www.microsoft.com/en-us/research/event/msr-india-2012-summer-school-on-distributed-algorithms-systems-and-programming/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fevents%2Fmsri2012summerschool%2F)
 
 ## Books
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu/current/index.html)
 * [Programming Language Foundations in Agda](https://plfa.github.io/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+* [Security Engineering - A Guide to Building
+Dependable Distributed Systems](https://www.cl.cam.ac.uk/~rja14/book.html)
+* [Thinking Forth](http://thinking-forth.sourceforge.net/)
