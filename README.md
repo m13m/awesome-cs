@@ -27,6 +27,7 @@
 * [Tutorial Papers in Functional Programming](http://www.cse.chalmers.se/~rjmh/tutorials.html)
 * [Awesome distributed systems by GOJEK](https://github.com/gojektech/awesome-distributed-systems)
 * [MSR India 2012 Summer School on Distributed Algorithms, Systems, and Programming](https://www.microsoft.com/en-us/research/event/msr-india-2012-summer-school-on-distributed-algorithms-systems-and-programming/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fevents%2Fmsri2012summerschool%2F)
+*[DrTLAPlus](https://github.com/tlaplus/DrTLAPlus)
 
 ## Books
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu/current/index.html)
