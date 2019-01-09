@@ -1,4 +1,6 @@
-# 📚 Papers 
+# Awesome Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+ 
+
 > A list of papers related to Distributed systems, Programming language theory, Software architecture and friends
 
 ## Programming languages 
