@@ -13,6 +13,7 @@
 ## Distributed systems
 * Brewer’s conjecture and the feasibility of consistent, available, partition-tolerant web services [[📄]](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
 * Large-scale cluster management at Google with Borg [[📄]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43438.pdf)
+* Keeping CALM: When Distributed Consistency is Easy [[📄]](https://arxiv.org/pdf/1901.01930.pdf) 
 
 
 ## Software architecture
