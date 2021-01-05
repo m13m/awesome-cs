@@ -10,6 +10,11 @@
 * The Next 700 Programming Languages [[📄]](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)
 * Composable memory transactions [[📄]](https://www.microsoft.com/en-us/research/publication/composable-memory-transactions/)
 
+### 1. λ Functional programming 
+* Functional pearl it’s easy as 1,2,3  [[📄]](https://www.cs.nott.ac.uk/~pszgmh/123.pdf)
+
+
+
 ## Distributed systems
 * Brewer’s conjecture and the feasibility of consistent, available, partition-tolerant web services [[📄]](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
 * Large-scale cluster management at Google with Borg [[📄]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43438.pdf)
