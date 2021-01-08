@@ -1,30 +1,31 @@
-# Awesome Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
  
 
-> A list of papers related to Distributed systems, Programming language theory, Software architecture and friends
+> A list of papers and books related to Distributed systems, Programming language theory, Software architecture and friends
 
-## Programming languages 
+### Programming languages 
 * Why Functional Programming Matters [[📄]](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 * Programming Paradigms for Dummies[[📄]](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 * A History of Haskell: being lazy with class [[📄 & 📹]](https://www.microsoft.com/en-us/research/publication/a-history-of-haskell-being-lazy-with-class/)
 * The Next 700 Programming Languages [[📄]](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)
 * Composable memory transactions [[📄]](https://www.microsoft.com/en-us/research/publication/composable-memory-transactions/)
 
-### 1. λ Functional programming 
+#### 1. λ Functional programming 
 * Functional pearl it’s easy as 1,2,3  [[📄]](https://www.cs.nott.ac.uk/~pszgmh/123.pdf)
 
 
 
-## Distributed systems
+### Distributed systems
+* [series] Patterns of Distributed Systems [[📄]](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 * Brewer’s conjecture and the feasibility of consistent, available, partition-tolerant web services [[📄]](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf)
 * Large-scale cluster management at Google with Borg [[📄]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43438.pdf)
 * Keeping CALM: When Distributed Consistency is Easy [[📄]](https://arxiv.org/pdf/1901.01930.pdf) 
 
 
-## Software architecture
+### Software architecture
 * The Software Architecture Chronicles by Herberto [[🔗]](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
 
-## Miscellaneous 
+### Miscellaneous 
 * [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 * [Readings in distributed systems by christopher meiklejohn](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 * [Distributed systems theory for the distributed systems engineer by Henry Robinson](http://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
