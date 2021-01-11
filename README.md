@@ -1,4 +1,4 @@
-## Awesome Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Cmpouter Science Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
  
 
 > A list of papers and books related to Distributed systems, Programming language theory, Software architecture and friends
@@ -26,6 +26,7 @@
 * The Software Architecture Chronicles by Herberto [[🔗]](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
 
 ### Miscellaneous 
+* [Awesome distributed transactions](https://github.com/rystsov/awesome-distributed-transactions/blob/main/README.md)
 * [awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 * [Readings in distributed systems by christopher meiklejohn](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 * [Distributed systems theory for the distributed systems engineer by Henry Robinson](http://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
